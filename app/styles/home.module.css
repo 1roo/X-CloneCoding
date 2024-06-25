@@ -1,0 +1,18 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+
+.bigFont {
+  font-size: 64px;
+  font-weight: 700;
+  word-wrap: break-word;
+  letter-spacing: -1.2px;
+}
+
+.middleFont {
+  font-size: 31px;
+  font-weight: 700;
+  word-wrap: break-word;
+  letter-spacing: -1.2px;
+}
